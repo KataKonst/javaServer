@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/gdata.jar"/>
+	<classpathentry kind="lib" path="lib/google-collect-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jmf.jar"/>
+	<classpathentry kind="lib" path="lib/jna-3.2.5.jar"/>
+	<classpathentry kind="lib" path="lib/jna-3.3.0-platform.jar"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="lib/vlcj-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/mapdb-2.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="lib/jtransforms-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/tritonus_remaining-0.3.6.jar"/>
+	<classpathentry kind="lib" path="lib/tritonus_share.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/RedisTest"/>
+	<classpathentry kind="lib" path="/home/katakonst/.m2/repository/redis/clients/jedis/2.8.0/jedis-2.8.0.jar" sourcepath="/home/katakonst/.m2/repository/redis/clients/jedis/2.8.0/jedis-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="/home/katakonst/licenta/javaLib/jave-1.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
